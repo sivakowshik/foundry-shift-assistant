@@ -1,0 +1,9 @@
+name,role,hourly_rate,can_open,can_close,available_days,max_hours
+Alex,Shift Manager,34.50,yes,yes,Mon;Tue;Wed;Thu;Fri,38
+Priya,Shift Manager,34.50,yes,yes,Wed;Thu;Fri;Sat;Sun,38
+Sam,Crew,28.20,yes,no,Mon;Tue;Wed;Thu;Fri;Sat;Sun,30
+Jordan,Crew,28.20,no,yes,Thu;Fri;Sat;Sun,24
+Mia,Crew,28.20,no,no,Sat;Sun,16
+Leo,Crew,28.20,yes,yes,Mon;Tue;Fri;Sat;Sun,30
+Chloe,Kitchen,29.10,yes,no,Mon;Tue;Wed;Thu;Fri,38
+Noah,Kitchen,29.10,no,yes,Wed;Thu;Fri;Sat;Sun,30
